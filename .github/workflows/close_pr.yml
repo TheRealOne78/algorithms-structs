@@ -4,7 +4,11 @@ on:
   pull_request_target:
     types: [opened]
 
-uses: superbrothers/close-pull-request@v3
-with:
-  # Post a issue comment just before closing a pull request.
-  comment: "I'm sorry, but I don't accept Pull Requests."
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: superbrothers/close-pull-request@v3
+      with:
+        # Optional. Post a issue comment just before closing a pull request.
+        comment: "I'm sorry, but I don't accept Pull Requests."
