@@ -4,3 +4,4 @@
 This is a repository containing algorithms I implemented on my own, for personal studies.
 
 /NOTE: Pull requests are not accepted, and will be dismissed automatically./
+test
