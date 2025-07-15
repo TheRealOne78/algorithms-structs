@@ -1,0 +1,6 @@
+#+TITLE: Algorithms and Data Structures
+#+AUTHOR: TheRealOne78 <bajcsielias78@gmail.com>
+
+This is a repository containing algorithms I implemented on my own, for personal studies.
+
+/NOTE: Pull requests are not accepted, and will be dismissed automatically./

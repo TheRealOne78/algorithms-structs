@@ -1,0 +1,18 @@
+#+title: String matching
+
+A string-searching algorithm, sometimes called string-matching algorithm, is an algorithm that searches a body of text for portions that match by pattern.
+
+A basic example of string searching is when the pattern and the searched text are arrays of elements of an alphabet (finite set) Σ. Σ may be a human language alphabet, for example, the letters A through Z and other applications may use a binary alphabet (Σ = {0,1}) or a DNA alphabet (Σ = {A,C,G,T}) in bioinformatics.
+
+--- Wikipedia. https://en.wikipedia.org/w/index.php?title=String-searching_algorithm&oldid=1299820213
+
+This directory contains the following algorithms [0/9]:
+- [ ] [[naive_search][Naive search]]
+- [ ] [[rabin_karp][Rabin-Karp]]
+- [ ] [[knuth_morris-pratt (kmp)][Knuth-Morris-Pratt (KMP)]]
+- [ ] [[z_algorithm][Z-Algorithm]]
+- [ ] [[boyer_moore][Boyer-Moore]]
+- [ ] [[aho_corasick][Aho-Corasick]]
+- [ ] [[suffix_automaton][Suffix Automaton]]
+- [ ] [[suffix_trie][Suffix Trie]]
+- [ ] [[suffix_tree][Suffix Tree]]

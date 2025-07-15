@@ -1,0 +1,55 @@
+[workspace]
+members = [
+    "backtracking/itterative_backtracking",
+    "backtracking/n_queens_problem",
+    "backtracking/permutations_of_a_set",
+    "backtracking/rat_in_a_maze",
+    "backtracking/recursive_backtracking",
+
+    "convex_hull/gift_wrapping",
+    "convex_hull/graham_scan",
+    "convex_hull/monotone_chain",
+    "convex_hull/quickhull",
+
+    "data_structs/graphs",
+    "data_structs/linked_lists",
+    "data_structs/stack",
+    "data_structs/tail",
+    "data_structs/trees",
+
+    "divide_and_conquer/binary_search",
+    "divide_and_conquer/closest_pair_of_points",
+    "divide_and_conquer/merge_sort",
+    "divide_and_conquer/quick_sort",
+    "divide_and_conquer/strassens_algorithm",
+
+    "dynamic_programming/coin_change",
+    "dynamic_programming/edit_distance",
+    "dynamic_programming/knapsack_0_1",
+    "dynamic_programming/longest_common_subsequence",
+    "dynamic_programming/longest_increasing_subsequence",
+    "dynamic_programming/matrix_chain_multiplication",
+    "dynamic_programming/minimum_weight_triangulation",
+
+    "greedy/dijkstra",
+    "greedy/fractional_knapsack",
+    "greedy/greedy_coin_change",
+    "greedy/heaps",
+    "greedy/huffman_coding",
+    "greedy/interval_scheduling",
+    "greedy/job_sequencing_with_deadlines",
+    "greedy/kruskal",
+    "greedy/lexicographical_greedy",
+    "greedy/optimal_interleaving_of_ordered_strings",
+    "greedy/prims_algorithm",
+
+    "string_matching/aho_corasick",
+    "string_matching/boyer_moore",
+    "string_matching/knuth_morris_pratt",
+    "string_matching/naive_search",
+    "string_matching/rabin_karp",
+    "string_matching/suffix_automaton",
+    "string_matching/suffix_tree",
+    "string_matching/suffix_trie",
+    "string_matching/z_algorithm"
+]

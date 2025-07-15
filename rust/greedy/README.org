@@ -1,0 +1,16 @@
+#+title: Greedy Algorithms
+
+A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage. In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time --- Wikipedia. https://en.wikipedia.org/w/index.php?title=Greedy_algorithm&oldid=1296400421
+
+This directory contains the following algorithms [0/11]:
+- [ ] [[dijkstra][Dijkstra]]
+- [ ] [[kruskal][Kruskal]]
+- [ ] [[prims_algorithm][Prim's Algorithm]]
+- [ ] [[heaps][Heaps]]
+- [ ] [[optimal_interleaving_of_ordered_strings][Optimal interleaving of ordered strings]]
+- [ ] [[huffman_coding][Huffman Coding]]
+- [ ] [[interval_scheduling][Interval Scheduling]]
+- [ ] [[fractional_knapsack][Fractional Knapsack]]
+- [ ] [[job_sequencing_with_deadlines][Job Sequencing with Deadlines]]
+- [ ] [[greedy_coin_change][Greedy Coin Change (with failure cases)]]
+- [ ] [[lexicographical_greedy][Lexicographical Greedy (for strings)]]

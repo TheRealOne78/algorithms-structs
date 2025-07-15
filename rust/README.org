@@ -1,0 +1,36 @@
+#+TITLE: Algorithms and Data Structures in Rust lang
+
+This directory contains [[https://www.rust-lang.org/][Rust]] source code for common algorithms and data structures.
+
+* Bibliography and References
+- The Rust Team.  The official Rust website.  https://www.rust-lang.org/
+- The Rust Team.  /The Rust Programming Language/.  https://doc.rust-lang.org/book/
+- The Rust Team.  /Rust by Example/.  https://doc.rust-lang.org/rust-by-example/
+- Danciu M. Gabriel.  /Structuri de date și algoritmi/.  Transilvania University [of Brașov] Publishing House, May 27th 2025 [DRAFT]. https://danciugabriel.ro/assets/files/Algoritmi_si_Structuri_de_date-1.pdf, [[https://web.archive.org/web/20250715101308/https://danciugabriel.ro/assets/files/Algoritmi_si_Structuri_de_date-1.pdf][ARCHIVE]]
+- Danciu M. Gabriel, & Alexandra Dobrinaș. /Programarea algoritmilor — Îndrumar de laborator/. Transilvania University [of Brașov] Publishing House, 2022. https://danciugabriel.ro/assets/files/Laboratoare_Algoritmi.pdf, [[https://web.archive.org/web/20250715100210/https://danciugabriel.ro/assets/files/Laboratoare_Algoritmi.pdf][ARCHIVE]]
+
+* Appendix
+** Images
+1. Meme --- I hope the rust femboy behind me won't start a monologue about memory safety again
+
+  [[./assets/readme/appendix/programmerhumor-io-programming-memes-84c4b59a476c42a.png]]
+
+  Source: https://programmerhumor.io/programming-memes/this-happens-to-me-literally-every-day-at-school/
+
+2. Meme --- Before and After The Rust Programming Language
+
+  [[./assets/readme/appendix/b1ee7f40ef6bcf894a427b787453a508.jpg]]
+
+   Source: https://www.pinterest.com/pin/25543922880832027/
+
+3. Meme --- Astolfo (Fate/Grand Order) holding the "Learning Rust: A comprehensive guide to writing Rust applications" book by Paul Johnson & Vesa Kaihlavirta, published by Packt
+
+  [[./assets/readme/appendix/Astolfo_Learning_rust.png]]
+
+  Source: [[https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Astolfo_Learning_rust.png][https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/]]
+
+4. Meme --- The Rust compiler helping users with descriptive instructions
+
+  [[./assets/readme/appendix/qllfh7ujijn81.jpeg]]
+
+  Source: https://www.reddit.com/r/ProgrammerHumor/comments/tenpvc/rust/

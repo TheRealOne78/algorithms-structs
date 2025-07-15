@@ -1,0 +1,10 @@
+#+title: Backtracking
+
+Backtracking is a class of algorithms for finding solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution --- Wikipedia. https://en.wikipedia.org/w/index.php?title=Backtracking&oldid=1246866316
+
+This directory contains the following algorithms [0/5]:
+- [ ] [[itterative_backtracking][Itterative backtracking]]
+- [ ] [[recursive_backtracking][Recursive backtracking]]
+- [ ] [[permutations_of_a_set][Permutations of a set]]
+- [ ] [[n_queens_problem][N-Queens Problem]]
+- [ ] [[rat_in_a_maze][Rat in a Maze]]

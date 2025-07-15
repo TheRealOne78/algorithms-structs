@@ -1,0 +1,6 @@
+[package]
+name = "rat_in_a_maze"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,9 @@
+#+title: Convex Hull
+
+In geometry, the convex hull, convex envelope or convex closure of a shape is the smallest convex set that contains it. The convex hull may be defined either as the intersection of all convex sets containing a given subset of a Euclidean space, or equivalently as the set of all convex combinations of points in the subset. For a bounded subset of the plane, the convex hull may be visualized as the shape enclosed by a rubber band stretched around the subset --- Wikipedia. https://en.wikipedia.org/w/index.php?title=Convex_hull&oldid=1298189989
+
+This directory contains the following algorithms [0/4]:
+- [ ] [[graham_scan][Graham Scan]]
+- [ ] [[quickhull][Quickhull]]
+- [ ] [[gift_wrapping][Gift wrapping]]
+- [ ] [[monotone_chain][Monotone Chain]]

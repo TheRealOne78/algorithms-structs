@@ -1,0 +1,12 @@
+#+title: Dynamic programming
+
+Dynamic programming is both a mathematical optimization method and an algorithmic paradigm. The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields, from aerospace engineering to economics --- Wikipedia. https://en.wikipedia.org/w/index.php?title=Dynamic_programming&oldid=1298731105
+
+This directory contains the following algorithms [0/7]:
+- [ ] [[longest_increasing_subsequence][Longest increasing subsequence (LIS)]]
+- [ ] [[minimum_weight_triangulation][Minimum weight triangulation (MWT)]]
+- [ ] [[longest_common_subsequence][Longest Common Subsequence (LCS)]]
+- [ ] [[edit_distance][Edit Distance]]
+- [ ] [[knapsack_0_1)][Knapsack (0/1)]]
+- [ ] [[matrix_chain_multiplication][Matrix Chain Multiplication]]
+- [ ] [[coin_change][Coin Change (min/fewest coins)]]
